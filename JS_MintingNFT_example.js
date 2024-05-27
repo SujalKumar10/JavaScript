@@ -29,7 +29,7 @@ function getTotalSupply() {
 
 mintNFT("Jimmy","10104","9029405385","New York");
 mintNFT("William","10106","9922325385","London");
-mintNFT("Jimmy","10104","8493265385","Paris");
+mintNFT("Jhonny","10105","8493265385","Paris");
 
 listNFTs();
 getTotalSupply();
